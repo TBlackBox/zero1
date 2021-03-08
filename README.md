@@ -5,7 +5,7 @@
 # 参考项目
 https://github.com/zebra-ruoyi-plus/ruoyi-plus
 
-https://github.com/stylefeng/Guns
+https://github.com/yongzhi/Guns
 
 https://github.com/enilu/guns-lite
 # 软件架构

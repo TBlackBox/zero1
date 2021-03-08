@@ -6,7 +6,7 @@
     <parent>
         <artifactId>zero</artifactId>
         <groupId>com.zero</groupId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
 
     <artifactId>zero-api</artifactId>
@@ -19,11 +19,6 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>com.zero</groupId>
-            <artifactId>zero-common</artifactId>
-            <version>${zero.version}</version>
-        </dependency>
 
         <dependency>
             <groupId>org.springframework.boot</groupId>
