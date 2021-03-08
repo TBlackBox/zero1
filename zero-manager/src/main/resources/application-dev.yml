@@ -1,6 +1,4 @@
 
-server:
-  port: 8890
 
 #Oracle配置
 #spring:
@@ -38,7 +36,6 @@ server:
 #    password: root
 #    filters: wall,mergeStat
 
-
 # Mysql数据库
 spring:
   datasource:
@@ -52,8 +49,6 @@ spring:
     max-active: 20
     max-pool-prepared-statement-per-connection-size: 20
 
-
-
   # 邮件发送配置（改为自己的账号和密码）
   mail:
     host: smtp.qq.com
@@ -65,3 +60,5 @@ spring:
 mail:
   from: sn93@qq.com
 
+server:
+  port: 9666
